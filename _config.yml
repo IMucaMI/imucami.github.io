@@ -1,0 +1,63 @@
+# Site settings
+lang: ru
+title: IT-MEMO
+author: Нечаев Алексей
+email: support@it-memo.ru
+description: IT-записки на память...
+baseurl: ""
+url: "https://it-memo.ru/"
+
+# Navigation links
+header_pages:
+  - about.md
+
+# Date format
+minima:
+  date_format: "%e %B %Y"
+
+# Enabling comments
+disqus:
+  shortname: it-memo
+
+# Social networks
+twitter_username: IMucaMI
+github_username: IMucaMI
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username:
+# linkedin_username:
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
+rss: RSS
+# mastodon:
+#  - username: jekyll
+#    instance: example.com
+
+# Google Analytics
+google_analytics: UA-97570006-1
+
+# Excerpts on the Home Page
+show_excerpts: true
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Version info
+version: 0.1.0
