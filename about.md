@@ -5,3 +5,5 @@ permalink: /about/
 ---
 
 Информация о блоге...
+
+Версия: {{ site.version }}
