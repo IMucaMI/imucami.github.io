@@ -58,3 +58,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Version info
+version: 0.1.0
