@@ -23,11 +23,11 @@ disqus:
 twitter_username: IMucaMI
 github_username: IMucaMI
 # dribbble_username:
-# facebook_username:
+facebook_username: nechaev.leha
 # flickr_username:
-# instagram_username:
+instagram_username: xMucaMx
 # linkedin_username:
-# pinterest_username:
+pinterest_username: nechaevleha
 # youtube_username:
 # googleplus_username:
 rss: RSS
@@ -60,4 +60,4 @@ plugins:
 #   - vendor/ruby/
 
 # Version info
-version: 0.2.0
+version: 0.2.1
